@@ -101,7 +101,7 @@ python scripts/evaluate.py \
   author = "Han, Jiuzhou and Mishra, Abhishek and Cohn, Trevor and Mittal, Shubham",
   booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
   year = "2026",
-  url = "https://aclanthology.org/venues/emnlp/"
+  url = "https://arxiv.org/abs/2610.26155"
 }
 ```
 
